@@ -104,4 +104,4 @@ The analysis uses 7 CSV files from the Olist e-commerce platform:
 3. Run cells sequentially from setup through Question 10
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/maheer461/sprint4-final-project
